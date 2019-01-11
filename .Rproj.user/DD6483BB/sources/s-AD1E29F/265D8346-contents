@@ -1,0 +1,26 @@
+Package: StatComp18038
+Type: Package
+Title: Three functions of homework
+Version: 0.1.0
+Author: Zhao Yanan
+Maintainer: Zhao Yanan <zhaoyana@mail.ustc.edu.cn>
+Description: These functions are used to compute the cdf of the Cauchy distribution, Monte Carlo 
+             estimate of the Beta(3,3) cdf, and generate samples from a Rayleigh(σ) distribution.
+License: GPL (>= 2)
+Imports: 
+    microbenchmark,
+    knitr,
+    rmarkdown,
+    stats,
+    MASS,
+    boot,
+    bootstrap,
+    DAAG,
+    lattice
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+URL: https://github.com/zhaoynan/StatComp18038
+BugReports: https://github.com/zhaoynan/StatComp18038/issues

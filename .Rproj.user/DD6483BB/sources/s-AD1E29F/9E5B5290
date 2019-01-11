@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547193982938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1027192641",
+    "id" : "9E5B5290",
+    "lastKnownWriteTime" : 1547194170,
+    "last_content_update" : 1547194170582,
+    "path" : "C:/Users/Administrator/Desktop/StatComp18069/R/MCofBeta.R",
+    "project_path" : "R/MCofBeta.R",
+    "properties" : {
+        "cursorPosition" : "2,40",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
