@@ -1,0 +1,3 @@
+devtools::install_github("peachandbeach/StatComp18069")
+
+InteofCauchy(22,0,1)
